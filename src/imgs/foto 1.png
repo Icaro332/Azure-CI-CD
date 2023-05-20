@@ -1,0 +1,1588 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xml:lang="pt-br" lang="pt-BR" xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <link href="https://mundoeducacao.uol.com.br/favicon.ico" rel="shortcut icon" title="Favicon" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, shrink-to-fit=no" />
+    
+        <title>Buracos negros: surgimento e o que sabemos deles - Mundo Educação</title>
+        
+    <!-- Meta tags --> 
+        <meta name="description" content="Acesse o texto e descubra mais sobre os buracos negros. Conheça suas características, descubra o que já sabemos sobre eles, e entenda de onde eles vieram." />
+        
+        <meta name="keywords" content="Educação, Trabalhos Escolares, Ensino Fundamental, Ensino Médio, Vestibular." />
+        <meta http-equiv="content-language" content="pt-br"/>
+    
+    <!-- Metas FB e twitter --> 
+    <meta property="og:locale" content="pt_BR" />
+        <meta property="og:title" content="Buracos negros: surgimento e o que sabemos deles - Mundo Educação" />
+    <meta property="twitter:title" content="Buracos negros: surgimento e o que sabemos deles - Mundo Educação" />
+            <meta name="og:description" content="Acesse o texto e descubra mais sobre os buracos negros. Conheça suas características, descubra o que já sabemos sobre eles, e entenda de onde eles vieram.">
+    <meta property="twitter:description" content="Acesse o texto e descubra mais sobre os buracos negros. Conheça suas características, descubra o que já sabemos sobre eles, e entenda de onde eles vieram." />
+        <meta property="og:site_name" content="Mundo Educação" />
+    <meta property="og:url" content="https://mundoeducacao.uol.com.br/fisica/buracos-negros.htm" />
+	    <meta property="og:image" content="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/12/buraco-negro.jpg" />
+    
+    <!-- Twitter tags for big card -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:image" content="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/12/buraco-negro.jpg" />
+        
+    <link rel="canonical" href="https://mundoeducacao.uol.com.br/fisica/buracos-negros.htm" />
+
+    <link href="https://mundoeducacao.uol.com.br/rss" type="application/rss+xml" rel="alternate" title="Conteúdo via RSS" />
+
+        <link rel="amphtml" href="https://mundoeducacao.uol.com.br/amp/fisica/buracos-negros.htm" />
+    
+    <meta name="robots" content="index,follow" />
+    <meta name="robots" content="noodp" />
+
+    <script type="text/javascript">
+        var AUTH_URL = 'https://auth.mundoeducacao.uol.com.br';
+        var API_URL = 'https://app.mundoeducacao.uol.com.br';
+        var APP_URL = 'https://mundoeducacao.uol.com.br';
+        var CANONICAL = 'https://mundoeducacao.uol.com.br/fisica/buracos-negros.htm';
+        var YT_API_KEY = 'AIzaSyBWjn3g_asWyNNKDyIUBIi7ZN0pPKBkBAs';
+        var GOOGLE_CLIENT_ID = '526794947580-4qgsl4a67rdtsu4gb1l4sqhn0gpmfmnh.apps.googleusercontent.com';
+        var ME_DOMAINS = JSON.parse('[{"domain":"exercicios","url":"https:\/\/exercicios.mundoeducacao.uol.com.br"},{"domain":"m.exercicios","url":"https:\/\/m.exercicios.mundoeducacao.uol.com.br"},{"domain":"vestibular","url":"https:\/\/vestibular.mundoeducacao.uol.com.br"}]');
+    </script>
+
+    <!-- ./END -->
+    <link rel="stylesheet" type="text/css" media="all" href="https://mundoeducacao.uol.com.br/css/lib.min.css?cache=0" />
+
+
+<link rel="stylesheet" type="text/css" media="all" href="https://mundoeducacao.uol.com.br/css/all-2.1.13.min.css" />
+
+<link rel="stylesheet" type="text/css" href="https://mundoeducacao.uol.com.br/css/lib-async.min.css" media="print" onload="this.media='all'" />
+<noscript>
+    <link rel="stylesheet" type="text/css" href="https://mundoeducacao.uol.com.br/css/lib-async.min.css" media="all" /> 
+</noscript>
+
+<!-- Fontes -->
+<link rel="preconnect" href="https://fonts.gstatic.com">
+
+<link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet" media="print" onload="this.media='all'">
+<noscript>
+    <link href="https://fonts.googleapis.com/css2?family=Maven+Pro:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap" rel="stylesheet">
+</noscript>
+
+<link rel="preload" href="https://mundoeducacao.uol.com.br/webfonts/fa-brands-400.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://mundoeducacao.uol.com.br/webfonts/fa-solid-900.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="preload" href="https://mundoeducacao.uol.com.br/webfonts/fa-regular-400.woff2" as="font" type="font/woff2" crossorigin>
+
+
+    
+            <!-- Structured data -->
+        <script type="application/ld+json">
+            {"@context":"http:\/\/schema.org","@type":"Article","mainEntityOfPage":"https:\/\/mundoeducacao.uol.com.br\/fisica\/buracos-negros.htm","publisher":{"@type":"Organization","name":"Mundo Educa\u00e7\u00e3o","logo":{"@type":"ImageObject","url":"https:\/\/mundoeducacao.uol.com.br\/images\/logo-ME.png","width":"157","height":"48"}},"headline":"Buracos negros: surgimento e o que sabemos deles","datePublished":"2009-05-25-0312:55:00","dateModified":"2020-12-11-0317:30:49","author":{"@type":"Person","name":"Rafael Helerbrock"},"description":"Acesse o texto e descubra mais sobre os buracos negros. Conhe\u00e7a suas caracter\u00edsticas, descubra o que j\u00e1 sabemos sobre eles, e entenda de onde eles vieram.","image":{"@type":"ImageObject","url":"https:\/\/static.mundoeducacao.uol.com.br\/mundoeducacao\/2020\/12\/buraco-negro.jpg"}}
+        </script>
+    
+            <!-- Faq Markup -->
+        <script type="application/ld+json">
+            {"@context":"https:\/\/schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"Quando surgem os buracos negros?","acceptedAnswer":{"@type":"Answer","text":"Os buracos negros parecem ser o est\u00e1gio final da vida de estrelas supermassivas."}}]}
+        </script>
+        
+        <!--  UOL TAG MANAGER -->
+    <script type="text/javascript">
+        window.universal_variable = window.universal_variable || {};
+        window.universal_variable.dfp = {
+               "custom_params" : {
+                    "subchan" : ""
+                }
+        }
+        window.uolads = window.uolads || [];
+        (function() {
+            var scr = document.createElement("script");
+                scr.async = true;
+                scr.src = "//tm.jsuol.com.br/uoltm.js?id=fnht1u";
+            var el = document.getElementsByTagName("script")[0];
+                el.parentNode.insertBefore(scr, el);
+        })();
+    </script>
+    <!--  End UOL Tag Manager -->
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-P577HS7KG4"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+
+        gtag('config', 'G-P577HS7KG4');
+    </script>
+    <!-- END GOOGLE ANALYTICS -->
+
+    
+</head>    
+    <body>
+        <div class="area-site">
+            <header>
+        <div class="menu-bar container">
+            <div class="row no-gutters menu-superior">
+                <div class="logo">
+                    <a href="https://mundoeducacao.uol.com.br">
+                        <img class="bigest-img" src="https://mundoeducacao.uol.com.br/images/logo-ME.png" alt="Logo Mundo Educação" width="168" height="51">
+                    </a>
+                </div>
+                <div class="search">
+                    <form action="https://mundoeducacao.uol.com.br/busca">
+                        <input class="search" name="q" required placeholder="procurar no site">
+                        <button type="submit">
+                            <img src="https://mundoeducacao.uol.com.br/images/search.svg" alt="search icon" width="15" height="15">
+                        </button>
+                    </form>
+                </div>
+                <div id="container-login"></div>
+            </div>
+        </div>
+        <div class="menu-items">
+            <div class="container">
+                <div class="row">
+                    <nav>
+                        <ul>
+                                                            <li>
+                                                                            <span class="fake-link">
+                                            Disciplinas 
+
+                                                                                            <i class="fas fa-chevron-down"></i>
+                                                                                    </span>
+                                                                        
+                                                                            <div class="sub-menu ">
+                                            <div class="container">
+                                                <div class="row">
+                                                                                                                                                                <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/biologia">
+                                                                Biologia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/educacao-fisica">
+                                                                Educação Física <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/artes">
+                                                                Artes <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/espanhol">
+                                                                Espanhol <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/filosofia">
+                                                                Filosofia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/fisica">
+                                                                Física <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/geografia">
+                                                                Geografia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/gramatica">
+                                                                Gramática <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/historia-america">
+                                                                História da América <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/historiadobrasil">
+                                                                História do Brasil <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/historiageral">
+                                                                História Geral <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/ingles">
+                                                                Inglês <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/literatura">
+                                                                Literatura <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/matematica">
+                                                                Matemática <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/quimica">
+                                                                Química <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://mundoeducacao.uol.com.br/redacao">
+                                                                Redação <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://mundoeducacao.uol.com.br/sociologia">
+                                                                Sociologia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://mundoeducacao.uol.com.br"  >
+                                            Destaques 
+
+                                                                                            <i class="fas fa-chevron-down"></i>
+                                                                                    </a>
+                                                                        
+                                                                            <div class="sub-menu ">
+                                            <div class="container">
+                                                <div class="row">
+                                                                                                                                                                <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/pascoa">
+                                                                Páscoa <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/curiosidades/quaresma.htm">
+                                                                Quaresma <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/datas-comemorativas/dia-mulher.htm">
+                                                                Dia das Mulheres <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/historiageral/primeira-guerra-mundial.htm">
+                                                                Primeira guerra mundial <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/historiageral/segunda-guerra-mundial.htm">
+                                                                Segunda guerra mundial <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/geografia/os-maiores-paises-mundo.htm">
+                                                                Maiores países do mundo <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/biologia/celula-animal.htm">
+                                                                Célula animal <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/gramatica/pronome.htm">
+                                                                Pronomes <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/matematica/sistema-numaracao-romano.htm">
+                                                                Números romanos <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/geografia/as-estacoes-ano.htm">
+                                                                Estações do ano <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/quimica/tabela-periodica.htm">
+                                                                Tabela periódica <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/geografia/mapa-brasil.htm">
+                                                                Mapa do Brasil <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/historiageral/revolucao-russa.htm">
+                                                                Revolução Russa <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/gramatica/porque-por-que-porque-por-que-.htm">
+                                                                Porque ou por que? <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/geografia/otan.htm">
+                                                                O que é a Otan? <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://mundoeducacao.uol.com.br/historiageral/revolucao-industrial-2.htm">
+                                                                Revolução industrial <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://mundoeducacao.uol.com.br/geografia/uniao-europeia.htm">
+                                                                União Europeia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://mundoeducacao.uol.com.br/geografia/paises-da-europa.htm">
+                                                                Países da Europa <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                    </li>
+                                                            <li>
+                                                                            <span class="fake-link">
+                                            Pesquisa Escolar 
+
+                                                                                            <i class="fas fa-chevron-down"></i>
+                                                                                    </span>
+                                                                        
+                                                                            <div class="sub-menu ">
+                                            <div class="container">
+                                                <div class="row">
+                                                                                                                                                                <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/acordo-ortografico">
+                                                                Acordo ortográfico <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/biografias">
+                                                                Biografias <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/china">
+                                                                China <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/curiosidades">
+                                                                Curiosidades <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/datas-comemorativas">
+                                                                Datas Comemorativas <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/doencas">
+                                                                Doenças <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/drogas">
+                                                                Drogas <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/educacao">
+                                                                Educação <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/folclore">
+                                                                Folclore <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/informatica">
+                                                                Informática <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/japao">
+                                                                Japão <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://mundoeducacao.uol.com.br/politica">
+                                                                Política <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://mundoeducacao.uol.com.br/psicologia">
+                                                                Psicologia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://mundoeducacao.uol.com.br/saude-bem-estar">
+                                                                Saúde e Bem Estar <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://mundoeducacao.uol.com.br/sexualidade">
+                                                                Sexualidade <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://vestibular.mundoeducacao.uol.com.br"  >
+                                            Vestibular 
+
+                                                                                            <i class="fas fa-chevron-down"></i>
+                                                                                    </a>
+                                                                        
+                                                                            <div class="sub-menu ">
+                                            <div class="container">
+                                                <div class="row">
+                                                                                                                                                                <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/agenda">
+                                                                Agenda <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/aprovados">
+                                                                Aprovados <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/bolsa-estudos">
+                                                                Bolsas de estudo <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/cursinhos-comunitarios">
+                                                                Cursinhos Comunitários <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/dicas">
+                                                                Dicas <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/ensino-distancia-ead">
+                                                                Ensino a distância (EaD) <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/guia-de-profissoes">
+                                                                Guia de Profissões <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/intercambio">
+                                                                Intercâmbio <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/noticias">
+                                                                Notícias do Vestibular <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/obras-literarias">
+                                                                Obras Literárias <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/orientacao-vocacional">
+                                                                Orientação Vocacional <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/universidade-para-todos/prouni.htm">
+                                                                ProUni <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://vestibular.mundoeducacao.uol.com.br/universidades">
+                                                                Universidades <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://vestibular.mundoeducacao.uol.com.br/enem"  >
+                                            ENEM 
+
+                                                                                            <i class="fas fa-chevron-down"></i>
+                                                                                    </a>
+                                                                        
+                                                                            <div class="sub-menu now">
+                                            <div class="container">
+                                                <div class="row">
+                                                                                                                                                                <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/bolsa-estudos/prouni.htm">
+                                                                ProUni <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/enem/enem-digital.htm">
+                                                                Enem Digital <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/enem/dicas.htm">
+                                                                Dicas do Enem <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/enem/como-faco-minha-inscricao-no-enem.htm">
+                                                                Inscrição no Enem <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/enem/dicas-para-redacao-enem.htm">
+                                                                Redação do Enem <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://vestibular.mundoeducacao.uol.com.br/enem/provas-gabaritos.htm">
+                                                                Provas e Gabaritos do ENEM <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://vestibular.mundoeducacao.uol.com.br/simulado">
+                                                                Simulado do Enem <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://vestibular.mundoeducacao.uol.com.br/bolsa-estudos/fies.htm">
+                                                                Fies <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://vestibular.mundoeducacao.uol.com.br/enem/sisu.htm">
+                                                                SiSU <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://escolakids.uol.com.br" target=_blank >
+                                            Escola Kids 
+
+                                                                                            <i class="fas fa-chevron-down"></i>
+                                                                                    </a>
+                                                                        
+                                                                            <div class="sub-menu now">
+                                            <div class="container">
+                                                <div class="row">
+                                                                                                                                                                <div class="col-lg-4">
+                                                            <a target=_blank  class="" href="https://escolakids.uol.com.br/datas-comemorativas/">
+                                                                Datas Comemorativas <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a target=_blank  class="" href="https://escolakids.uol.com.br/ciencias/">
+                                                                Ciências <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a target=_blank  class="" href="https://escolakids.uol.com.br/geografia/">
+                                                                Geografia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://escolakids.uol.com.br/historia/">
+                                                                História <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a target=_blank  class="no-border" href="https://escolakids.uol.com.br/portugues/">
+                                                                Português <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a target=_blank  class="no-border" href="https://escolakids.uol.com.br/matematica/">
+                                                                Matemática <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://exercicios.mundoeducacao.uol.com.br"  >
+                                            Exercícios 
+
+                                                                                            <i class="fas fa-chevron-down"></i>
+                                                                                    </a>
+                                                                        
+                                                                            <div class="sub-menu now">
+                                            <div class="container">
+                                                <div class="row">
+                                                                                                                                                                <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-biologia">
+                                                                Exercícios de Biologia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-fisica">
+                                                                Exercícios de Física <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-matematica">
+                                                                Exercícios de Matemática <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-quimica">
+                                                                Exercícios de Química <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-historia">
+                                                                Exercícios de História <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-historia-america">
+                                                                História da América <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-geografia">
+                                                                Exercícios de Geografia <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-geografia-brasil">
+                                                                Geografia do Brasil <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-gramatica">
+                                                                Exercícios de Gramática <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-literatura">
+                                                                Exercícios de Literatura <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                            <div class="col-lg-4">
+                                                            <a   class="no-border" href="https://exercicios.mundoeducacao.uol.com.br/exercicios-redacao">
+                                                                Exercícios de Redação <i class="fas fa-chevron-right"></i>
+                                                            </a>
+                                                        </div>
+                                                        
+                                                                                                    </div>
+                                            </div>
+                                        </div>
+                                                                    </li>
+                                                            <li>
+                                                                            <a href="https://mundoeducacao.uol.com.br/noticias"  >
+                                            Notícias 
+
+                                                                                    </a>
+                                                                        
+                                                                    </li>
+                                                    </ul>
+                    </nav>
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="shadow-menu"></div>
+
+<div class="wrapper-bnr">
+    <div class="bnr">
+        <div class="bnr-it">
+            <!-- 728x90 - 1 - UOL AD --><div id="banner-728x90-area"><script>window.uolads && window.uolads.push({ id: "banner-728x90-area" });</script></div>
+            <div class="bnr-timing"></div>
+        </div>
+    </div>
+</div>
+    
+            <div class="box-social">
+    <div class="box-social__icons-box box-social__icons-box--options">
+        <div class="box-social__ico-options--share"></div>
+    </div>
+
+    <div class="box-social__blocos-compartilhaveis">
+
+                    <div class="box-social__icons-box box-social__icons-box--twitter" data-title="Buracos Negros" data-url="https://mundoeducacao.uol.com.br/fisica/buracos-negros.htm">
+                <img class="box-social__ico-twitter" src="https://mundoeducacao.uol.com.br/images/social-share/twitter_ico.svg" alt="Twitter icon" />
+                <span class="box-social__twitter-title">Twitter</span>
+            </div>
+
+            <div class="box-social__icons-box box-social__icons-box--facebook" data-title="Buracos Negros" data-url="https://mundoeducacao.uol.com.br/fisica/buracos-negros.htm">
+                <img class="box-social__ico-facebook" src="https://mundoeducacao.uol.com.br/images/social-share/facebook_ico.svg" alt="Facebook icon" />
+                <span class="box-social__facebook-title">Facebook</span>
+            </div>
+
+            <div class="box-social__icons-box box-social__icons-box--whatsapp" data-title="Buracos Negros" data-url="https://mundoeducacao.uol.com.br/fisica/buracos-negros.htm">
+                <img class="box-social__ico-whatsapp" src="https://mundoeducacao.uol.com.br/images/social-share/whatsapp_ico.svg" alt="Whatsapp icon" />
+                <span class="box-social__whatsapp-title">Whatsapp</span>
+            </div>
+            
+            </div>
+</div><div class="content">
+    <div class="container no-padding left right ">
+    <div class="row">
+            <div class="col-xl-12 half-padding breadcrumb">
+    <ol itemscope itemtype="https://schema.org/BreadcrumbList">
+        <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+            <a itemtype="https://schema.org/Thing" itemprop="item" href="https://mundoeducacao.uol.com.br">
+                <span class="pagina-atual" itemprop="name">Home</span>
+                <meta itemprop="position" content="1" />
+            </a>
+        </li>
+        
+                                    <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                                        <a itemtype="https://schema.org/Thing" itemprop="item" href="https://mundoeducacao.uol.com.br/fisica">
+                                            <span itemprop="name">Física</span>
+                        <meta itemprop="position" content="2" />
+                    </a>
+                </li>
+                                                <li itemprop="itemListElement" itemscope itemtype="https://schema.org/ListItem">
+                                        <a itemtype="https://schema.org/Thing" itemprop="item" href="https://mundoeducacao.uol.com.br/fisica/astrofisica.htm">
+                                            <span itemprop="name">Astrofísica</span>
+                        <meta itemprop="position" content="3" />
+                    </a>
+                </li>
+                                                <li>
+                    <strong>Buracos Negros</strong>
+                </li>
+                        </ol>
+</div>        </div>
+    
+        <div class="row">
+            <div class="col-xl-12 half-padding">
+                <h1 class="title-space small">Buracos Negros</h1>
+            </div>
+        </div>
+    
+        <div class="row page">
+    
+            <div class="col-xl-9">
+                <div class="row content-text mb-3">
+                    <div class="col-xl-12 half-padding">
+                        <div class="conteudo">
+                                                            <div style='float: left; margin-right: 15px; margin-bottom: 15px;'>
+                                    <div style='height:250px; width:300px;'>
+                                        <!-- 300x250 - 1 - UOL AD --><div id="banner-300x250-area"><script>window.uolads && window.uolads.push({ id: "banner-300x250-area" });</script></div>
+                                    </div>
+                                </div>
+                            
+                            <div><p style="text-align:justify"><strong>Buracos negros </strong>s&atilde;o corpos celestes formados por uma enorme quantidade de <a href="https://mundoeducacao.uol.com.br/quimica/materia.htm">mat&eacute;ria</a>, em um espa&ccedil;o menor que um &uacute;nico <a href="https://mundoeducacao.uol.com.br/quimica/estrutura-atomo.htm">&aacute;tomo</a>, gra&ccedil;as a uma intensa <a href="https://mundoeducacao.uol.com.br/fisica/aceleracao-gravidade.htm">atra&ccedil;&atilde;o gravitacional</a>, de modo que nem mesmo a luz escapa de seu interior. Os buracos negros foram previstos teoricamente como uma mera solu&ccedil;&atilde;o das equa&ccedil;&otilde;es da <a href="https://mundoeducacao.uol.com.br/fisica/a-nova-teoria-gravitacional.htm">relatividade geral</a>, entretanto, observa&ccedil;&otilde;es recentes permitiram-nos descobrir muito sobre esses incr&iacute;veis corpos celestes.</p>
+
+<p style="text-align:justify"><strong>Veja tamb&eacute;m: </strong><a href="https://mundoeducacao.uol.com.br/fisica/boson-de-higgs.htm">B&oacute;son de Higgs &ndash; a import&acirc;ncia da part&iacute;cula para o avan&ccedil;o da ci&ecirc;ncia</a></p>
+
+<h2 style="text-align:justify"><strong>O que sabemos sobre os buracos negros?</strong></h2>
+
+<p style="text-align:justify">Os buracos negros s&atilde;o o <strong>resultado de algum corpo celeste que sofreu um grande colapso</strong> <strong>gravitacional.</strong> Esses corpos celestes podem apresentar tamanhos bastante <strong>variados,</strong> que v&atilde;o de alguns metros a quil&ocirc;metros, j&aacute; as suas massas podem ser milh&otilde;es de vezes maiores que a do <a href="https://mundoeducacao.uol.com.br/fisica/o-sol.htm">Sol</a>.</p>
+
+<p style="text-align:justify">Os buracos negros <strong>distorcem o espa&ccedil;o com sua imensa gravidade</strong>, isso faz com que a luz que viaja nas proximidades deles seja defletida em sua dire&ccedil;&atilde;o, dando origem a fen&ocirc;menos como a <strong>lente</strong> <strong>gravitacional.</strong></p>
+
+<p style="text-align:justify">Diferentemente do que muitos pensam, os buracos negros n&atilde;o sugam toda a mat&eacute;ria ao seu redor, para que isso aconte&ccedil;a, &eacute; necess&aacute;ria uma dist&acirc;ncia m&iacute;nima conhecida como <strong>horizonte</strong> <strong>de</strong> <strong>eventos.</strong> Caso alguma por&ccedil;&atilde;o de mat&eacute;ria ou at&eacute; mesmo um raio de luz adentrem o horizonte de eventos de um buraco negro, eles ser&atilde;o atra&iacute;dos, por um campo gravitacional intenso, em dire&ccedil;&atilde;o ao centro do buraco negro, em uma regi&atilde;o conhecida como <strong>singularidade.</strong></p>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Concep&ccedil;&atilde;o art&iacute;stica de como deve ser um buraco negro, gra&ccedil;as aos efeitos gravitacionais que ele provoca sobre a luz." height="337" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/12/buraco-negro.jpg" width="600">
+<figcaption>Concep&ccedil;&atilde;o art&iacute;stica de como deve ser um buraco negro, gra&ccedil;as aos efeitos gravitacionais que ele provoca sobre a luz.</figcaption>
+</figure>
+</div>
+
+<p style="text-align:justify">Teoricamente <strong>n&atilde;o &eacute; poss&iacute;vel observar nada que se encontre al&eacute;m do horizonte de eventos de um buraco negro</strong>, uma vez que a velocidade de escape dessa regi&atilde;o &eacute; superior &agrave; pr&oacute;pria <a href="https://mundoeducacao.uol.com.br/fisica/velocidade-luz.htm">velocidade da luz</a>, por isso o que torna poss&iacute;vel a detec&ccedil;&atilde;o de um buraco negro &eacute; a presen&ccedil;a dos <strong>discos</strong> <strong>de</strong> <strong>acre&ccedil;&atilde;o.</strong> Os discos de acre&ccedil;&atilde;o s&atilde;o formados de gases absorvidos pelo buraco negro, quando aceleradas, as part&iacute;culas do g&aacute;s emitem <a href="https://mundoeducacao.uol.com.br/quimica/radiacoes.htm">radia&ccedil;&atilde;o</a> detect&aacute;vel at&eacute; adentrarem o horizonte de eventos.</p>
+
+<p style="text-align:justify"><strong>Dizer que nada escapa de um buraco negro &eacute; errado.</strong> De acordo com estudos do f&iacute;sico ingl&ecirc;s <a href="https://mundoeducacao.uol.com.br/fisica/stephen-hawking.htm">Stephen Hawking</a>, sabemos que os buracos negros emitem <strong>radia&ccedil;&atilde;o</strong> <strong>t&eacute;rmica</strong> devido a efeitos qu&acirc;nticos. Essa radia&ccedil;&atilde;o ficou conhecida como <strong>radia&ccedil;&atilde;o</strong> <strong>Hawking</strong>, sobre a qual discutiremos mais adiante.</p>
+
+<p style="text-align:justify"><strong><div class='pb_inner_content'><span>Não pare agora... Tem mais depois da publicidade ;)</span><div class='pb'><!-- 300x250 - 2 - UOL AD --><div id="banner-300x250-2-area"><script>window.uolads && window.uolads.push({ id: "banner-300x250-2-area" });</script></div></div></div></strong></p>
+
+<h2 style="text-align:justify"><strong>De onde surgem os buracos negros?</strong></h2>
+
+<p style="text-align:justify">Os buracos negros parecem ser o est&aacute;gio final da vida de <a href="https://mundoeducacao.uol.com.br/fisica/estrelas.htm">estrelas</a> supermassivas. Quando chegam a seus &uacute;ltimos bilh&otilde;es de anos de vida, todo o comb&uacute;stivel das estrelas supermassivas torna-se escasso, dessa maneira, as <a href="https://mundoeducacao.uol.com.br/fisica/a-gravitacao-universal.htm">for&ccedil;as gravitacionais</a> tendem a compact&aacute;-la cada vez mais.</p>
+
+<p style="text-align:justify">Durante essa compacta&ccedil;&atilde;o, conhecida como colapso gravitacional, o n&uacute;cleo da estrela passa a aquecer cada vez mais, passando, assim, a fundir elementos cada vez mais pesados, como o <a href="https://mundoeducacao.uol.com.br/quimica/carbono.htm">carbono</a> e o <a href="https://mundoeducacao.uol.com.br/quimica/ferro.htm">ferro</a>. Nesse ponto, o n&uacute;cleo da estrela torna-se inst&aacute;vel e sofre uma expans&atilde;o violenta, lan&ccedil;ando toda a mat&eacute;ria externa da estrela a velocidades pr&oacute;ximas &agrave; <a href="https://mundoeducacao.uol.com.br/fisica/velocidade-luz.htm">da luz</a>, esse processo &eacute; conhecido como <strong>supernova</strong>.</p>
+
+<p style="text-align:justify">Depois da ocorr&ecirc;ncia da supernova, h&aacute; duas possibilidades. A primeira, quando a estrela n&atilde;o &eacute; t&atilde;o massiva, resulta em um pequeno n&uacute;cleo superdenso, brilhante e extremamente quente, de poucos quilometros de di&acirc;metro e de <a href="https://mundoeducacao.uol.com.br/quimica/densidade.htm">densidade</a> incrivelmente alta, em outras palavras, a morte de uma estrela de massa intermedi&aacute;ria pode dar origem a uma <strong>estrela de n&ecirc;utrons</strong>. No outro extremo, caso a estrela seja supermassiva, o colapso gravitacional continua at&eacute; que toda a mat&eacute;ria do n&uacute;cleo estelar confine-se em uma regi&atilde;o extremamente pequena, criando assim um <strong>buraco</strong> <strong>negro</strong>.</p>
+
+<p style="text-align:justify"><strong>Veja</strong> <strong>tamb&eacute;m:</strong> <a href="https://mundoeducacao.uol.com.br/fisica/exoplanetas.htm">Exoplanetas &ndash; planetas que se encontram fora do Sistema Solar</a></p>
+
+<h2 style="text-align:justify"><strong>Descoberta dos buracos negros</strong></h2>
+
+<p style="text-align:justify">Embora j&aacute; tivessem sido imaginados no s&eacute;culo XVIII, os buracos negros foram previstos pela <strong>teoria geral da relatividade</strong> somente em 1916, por <strong>Karl</strong> <strong>Schwarzschild,</strong> entretanto, a primeira observa&ccedil;&atilde;o direta de um buraco negro s&oacute; foi poss&iacute;vel no ano de 2019, gra&ccedil;as a um experimento de colabora&ccedil;&atilde;o internacional conhecido como Event Horizon Telescope.</p>
+
+<p style="text-align:justify">Embora a primeira observa&ccedil;&atilde;o direta de um buraco negro tenha sido t&atilde;o recente, os f&iacute;sicos j&aacute; consideravam a exist&ecirc;ncia desses corpos celestes h&aacute; muito tempo, por conta de observa&ccedil;&otilde;es indiretas. Entenda algumas das evid&ecirc;ncias que sugeriam a exist&ecirc;ncia dos buracos negros:</p>
+
+<ul>
+	<li>
+	<p style="text-align:justify">Em diversas ocasi&otilde;es, telesc&oacute;pios foram capazes de captar imagens de estrelas e at&eacute; mesmo <a href="https://mundoeducacao.uol.com.br/geografia/planetas.htm">planetas</a> orbitando regi&otilde;es &ldquo;vazias&rdquo; do espa&ccedil;o, sem brilho algum.</p>
+	</li>
+</ul>
+
+<ul>
+	<li>
+	<p style="text-align:justify">Em algumas imagens captadas por telesc&oacute;pios, &eacute; poss&iacute;vel observar a imagem de uma mesma estrela diversas vezes, isso acontece porque os buracos negros deformam o espa&ccedil;o, defletindo a dire&ccedil;&atilde;o dos raios de luz, como faria uma lente, por isso damos o nome a esse fen&ocirc;meno de lente gravitacional.</p>
+	</li>
+</ul>
+
+<ul>
+	<li>
+	<p style="text-align:justify">No ano de 2015, o observat&oacute;rio de ondas gravitacionais LIGO foi capaz de detectar a exist&ecirc;ncia de ondas gravitacionais com base em um evento de fus&atilde;o entre dois buracos supermassivos. Nessa ocasi&atilde;o de extrema raridade, colidiram-se singularidades de massas iguais a 36 s&oacute;is e 29 s&oacute;is, resultando em dist&uacute;rbios gravitacionais que puderam ser detectados mesmo aqui da <a href="https://mundoeducacao.uol.com.br/geografia/planeta-terra.htm">Terra</a>, a bilh&otilde;es de <a href="https://mundoeducacao.uol.com.br/fisica/o-que-um-ano-luz.htm">anos-luz</a>.</p>
+	</li>
+</ul>
+
+<div style="text-align:center">
+<figure class="image" style="display:inline-block"><img alt="Devido &agrave; sua enorme massa, os buracos negros conseguem deformar o espa&ccedil;o e at&eacute; mesmo o tempo." height="400" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/12/1-espaco-curvo.jpg" width="600">
+<figcaption>Devido &agrave; sua enorme massa, os buracos negros conseguem deformar o espa&ccedil;o e at&eacute; mesmo o tempo.</figcaption>
+</figure>
+</div>
+
+<h2 style="text-align:justify"><strong>Stephen Hawking e os buracos negros</strong></h2>
+
+<p style="text-align:justify"><a href="https://mundoeducacao.uol.com.br/fisica/stephen-hawking.htm">Stephen Hawking</a> foi um f&iacute;sico brit&acirc;nico de grande import&acirc;ncia para o nosso entendimento atual sobre o Universo e, especificamente, sobre os buracos negros. De acordo com os postulados te&oacute;ricos deixados por ele, os <strong>buracos negros deveriam ser capazes de emitir</strong> <strong>radia&ccedil;&atilde;o,</strong> mesmo que isso contrariasse o pr&oacute;prio conceito de buraco negro.</p>
+
+<p style="text-align:justify">Tal radia&ccedil;&atilde;o diz respeito &agrave; <strong>radia&ccedil;&atilde;o</strong> <strong>t&eacute;rmica</strong> que escapa do buraco negro, uma vez que esse corpo <strong>n&atilde;o se encontra na temperatura do <a href="https://mundoeducacao.uol.com.br/fisica/zero-absoluto.htm">zero absoluto</a></strong>, sendo, portanto, pass&iacute;vel de emitir radia&ccedil;&atilde;o devido a <strong>efeitos</strong> <strong>qu&acirc;nticos</strong> que surgem na fronteira entre o espa&ccedil;o e o horizonte de eventos do buraco negro.</p></div>
+
+                        </div>
+                    </div>
+    
+                    <div class="col-xl-12 half-padding">
+                        <div class="autores">
+                            <span>Publicado por <strong>Rafael Helerbrock</strong>
+        </span>
+                        </div>
+
+                        
+                                            </div>
+    
+                    
+                    <!-- Vídeos -->
+
+                    <div class="col-xl-12 half-padding">
+    <h2 class="title-space medium">Artigos Relacionados</h2>
+</div>
+            
+        <a href="https://mundoeducacao.uol.com.br/fisica/aceleracao-gravidade.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2019/11/1-astronauta-na-lua.jpg" alt="" title="">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Aceleração da gravidade
+        </div>
+
+        <div class="txt">
+            Descubra o que é a aceleração da gravidade, conheça as fórmulas usadas para calculá-la, e confira exercícios resolvidos sobre aceleração gravitacional.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/boson-de-higgs.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2019/08/boson-de-higgs.jpg" alt="Os bósons de Higgs foram detectados em colisões de partículas, no acelerador chamado LHC." title="Bóson de Higgs">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Bóson de Higgs
+        </div>
+
+        <div class="txt">
+            Você sabe o que são os bósons de Higgs? Saiba o que são, qual a sua origem, quem as descobriu e qual a sua importância para o Universo.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/estrelas.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/15608814325d09291867ad0-estrelas-pleiades.jpg" alt="As estrelas são grandes esferas de plasma que são alimentadas pela fusão nuclear." title="Estrelas">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Estrelas
+        </div>
+
+        <div class="txt">
+            Que tal saber mais sobre as estrelas? Confira o que são, do que são feitas e como é a evolução das estrelas, do seu nascimento ao seu fim.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/exoplanetas.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2020/12/exoplaneta1.jpg" alt="" title="">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Exoplanetas
+        </div>
+
+        <div class="txt">
+            Você sabe o que são exoplanetas? Descubra como eles são descobertos, a qual distância ficam da Terra e saiba onde encontram-se os exoplanetas mais próximos da Terra.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/introducao-fisica.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/06/einstein-e-newton.jpg" alt="Sir Isaac Newton (esquerda) e Albert Einstein (direita)" title="Einstein e Newton">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Introdução à Física
+        </div>
+
+        <div class="txt">
+            Acesse este link para ficar por dentro dos conceitos iniciais da Física, o que abordam e sua importância para sociedade.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/missao-mars-2020.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/05/ingenuity.jpg" alt="" title="">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Missão Mars 2020
+        </div>
+
+        <div class="txt">
+            O que você sabe sobre a Missão Mars 2020? Conheça os objetivos dessa missão e aprenda mais sobre o rover Perseverance.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/nasa.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/38801ac39582a65bf1037ee0ac145415.jpg" alt="A NASA é a agência espacial estadunidense para assuntos aeronáuticos e de exploração espacial" title="NASA">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            NASA
+        </div>
+
+        <div class="txt">
+            Clique aqui e saiba mais sobre a NASA, agência espacial estadunidense responsável pelo desenvolvimento de equipamentos de aeronáutica e exploração espacial.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/radiotelescopios.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/4d0a26409f2b782168ed00ff3d3ffba0.jpg" alt="Radiotelescópios do Observatório Nacional do México" title="Radiotelescópios">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Radiotelescópios
+        </div>
+
+        <div class="txt">
+            Saiba mais sobre o funcionamento dos radiotelescópios: a sua função, potencialidades e características principais.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/stephen-hawking.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/a01d1e85bad8568857952a209a1b1033.jpg" alt="“Inteligência é a capacidade de se adaptar à mudança.” Stephen Hawking (1942-2018)*" title="Stephen Hawking (1942-2018)">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Stephen Hawking
+        </div>
+
+        <div class="txt">
+            Conheça mais sobre a vida e produção científica de Stephen Hawking, um dos mais renomados físicos da atualidade.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/velocidade-luz.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/9bda734a733a9c59a58dcb323593684a.jpg" alt="Apesar de nos parecer instantânea, a luz se move com velocidade finita, levando um tempo para chegar aos nossos olhos" title="Farol">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Velocidade da Luz
+        </div>
+
+        <div class="txt">
+            Você sabe qual é a velocidade da luz? A luz propaga-se no vácuo com uma velocidade de 299.792.458 m/s, ou seja, cerca de trezentos milhões de metros por segundo. A velocidade da luz é uma das mais importantes constantes da Física e foi medida com precisão, pela primeira vez, pelo engenheiro francês Hypollyte Fizeau.
+        </div>
+    </div>
+</a>            
+        <a href="https://mundoeducacao.uol.com.br/fisica/viagens-no-tempo-sao-possiveis.htm" class="col-xl-12 bloco-itens-relacionados half-padding ">
+            <div class="bloco-itens-relacionados__foto">
+            <div class="image-wraper">
+                <img class="lozad img-medium" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/conteudo_legenda/9d46db908744d82f046703e7e07becd3.jpg" alt="As teorias da Física não impedem a possibilidade de viagens no tempo." title="Tempo">
+            </div>
+        </div>
+    
+    <div class="bloco-itens-relacionados__conteudo">
+        <div class="titulo">
+            Viagens no tempo são possíveis?
+        </div>
+
+        <div class="txt">
+            Clique aqui e descubra se é possível ou não visitar o passado ou o futuro. Veja o que as leis da Física dizem a respeito das viagens no tempo!
+        </div>
+    </div>
+</a>                    </div>
+            </div>
+    
+            <div class="col-xl-3 half-padding">
+                <div class="col-xl-12 pl-0 pr-0 mb-3">
+    <div class="destaque-texto-abaixo omnia-modal-video" video-id="H5L5guBnWls">
+        <div class="play">
+            <div class="shadow"></div>
+            <div class="playButton">
+                <img src="https://mundoeducacao.uol.com.br/images/video.svg" alt="video icon" width="45" height="45" />
+            </div>
+        
+            <img loading="lazy" class="tns-lazy-img img-medium loaded tns-complete" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2022/07/governo-medici-1969-1974.jpg" alt="" title="">
+            
+        </div>
+
+        <div class="">
+            <div class="tipo"> História </div>
+        
+    <div class="titulo"> Governo Médici (1969-1974) </div>
+    <div class="txt"> Assista à nossa videoaula para conhecer as principais características do Governo Médici (1969-1974). Confira também no nosso canal outras informações sobre a Ditadura Militar no Brasil. </div>
+</div>    </div>
+</div>
+    <div class="row mb-3">
+        <div class="col-xl-12 half-padding">
+            <!-- 300x250 - 3 - UOL AD --><div id="banner-300x250-3-area"><script>window.uolads && window.uolads.push({ id: "banner-300x250-3-area" });</script></div>
+        </div>
+    </div>
+
+<div class="last-news mb-3">
+        <h2>Últimas notícias</h2>
+        <div class="news row">
+                            <div class="col-12 new">
+                    
+                        <a href="https://vestibular.mundoeducacao.uol.com.br/noticias/recursos-da-isencao-de-taxa-do-enem-2023/345773.html">
+                      
+                        <div class="titulo">
+                            11.05.2023 • 18:29h
+                        </div>
+                        <div class="txt">
+                            Recursos da isenção de taxa do Enem 2023 podem ser solicitados até esta sexta (12)
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-12 new">
+                    
+                        <a href="https://vestibular.mundoeducacao.uol.com.br/noticias/resultado-da-isencao-da-taxa-do-enem-2023-esta-disponivel/345772.html">
+                      
+                        <div class="titulo">
+                            08.05.2023 • 09:57h
+                        </div>
+                        <div class="txt">
+                            Resultado da isenção da taxa do Enem 2023 está disponível
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-12 new">
+                    
+                        <a href="https://vestibular.mundoeducacao.uol.com.br/noticias/acesse-edital-do-enem-2023/345766.html">
+                      
+                        <div class="titulo">
+                            08.05.2023 • 07:12h
+                        </div>
+                        <div class="txt">
+                            Acesse Edital do Enem 2023
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-12 new">
+                    
+                        <a href="https://vestibular.mundoeducacao.uol.com.br/noticias/isencao-enem-2023-prazo-para-pedir-beneficio-termina-hoje-28/345771.html">
+                      
+                        <div class="titulo">
+                            28.04.2023 • 13:41h
+                        </div>
+                        <div class="txt">
+                            Isenção Enem 2023: prazo para pedir benefício termina hoje (28)
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-12 new">
+                    
+                        <a href="https://vestibular.mundoeducacao.uol.com.br/noticias/lista-de-espera-do-prouni-2023-prazo-para-confirmar-informacoes-encerra-hoje-19/345770.html">
+                      
+                        <div class="titulo">
+                            19.04.2023 • 00:30h
+                        </div>
+                        <div class="txt">
+                            Lista de espera do ProUni 2023: prazo para confirmar informações encerra hoje (19)
+                        </div>
+                    </a>
+                </div>
+                            <div class="col-12 new">
+                    
+                        <a href="https://vestibular.mundoeducacao.uol.com.br/noticias/isencao-enem-2023-solicite-o-beneficio/345769.html">
+                      
+                        <div class="titulo">
+                            17.04.2023 • 10:38h
+                        </div>
+                        <div class="txt">
+                            Isenção Enem 2023: solicite o benefício
+                        </div>
+                    </a>
+                </div>
+                    </div>
+    </div>
+
+
+    <div class="mb-3" id="flyAreaSidebar">
+        <div id="flyPbSidebar">
+            <!-- 300x600 - 1 - UOL AD --><div id="banner-300x600-area"><script>window.uolads && window.uolads.push({ id: "banner-300x600-area" });</script></div>
+        </div>
+    </div>
+            </div>
+        </div>
+</div>    
+    
+    <div class="container no-padding left right destaque-abas">
+    <div class="inner">
+    
+            <div class="row " >
+    <div class="col-xl-12 half-padding">
+    <h2 class="title-space medium">Outras matérias</h2>
+</div>            
+            <div class="col-xl-12 half-padding selecao">
+                <div class="scroll">
+                                            <div class="select abas-content__item active" data-tab-name="aba1">
+                            Biologia
+                        </div>
+                    
+                                            <div class="select abas-content__item" data-tab-name="aba2">
+                            Matemática
+                        </div>
+                    
+                                            <div class="select abas-content__item" data-tab-name="aba3">
+                            Geografia
+                        </div>
+                    
+                                            <div class="select abas-content__item" data-tab-name="aba4">
+                            Física
+                        </div>
+                    
+                                            <div class="select abas-content__item" data-tab-name="aba5">
+                            Vídeos
+                        </div>
+                                    </div>
+            </div>
+</div>
+                    <div class="row abas-content__grid show" id=aba1>
+    <div class="col-xl-6 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/biologia/aracnideos.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/aracnideos.jpg" alt="escorpião" title="Aracnídeos">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Animais </div>
+        
+    <div class="titulo"> Aracnídeos </div>
+    <div class="txt"> Além dos escorpiões, os ácaros também estão inclusos nesse grupo? Descubra! </div>
+</div>    </a>
+</div>                                            <div class="col-xl-3 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/biologia/acetilcolina.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/1-acetilcolina.jpg" alt="Acetilcolina" title="Acetilcolina">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Bioquímica </div>
+        
+    <div class="titulo"> Acetilcolina </div>
+    <div class="txt"> Verdadeiro ou falso: acetilcolina é um neurotransmissor? </div>
+</div>    </a>
+</div>                                            <div class="col-xl-3 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/biologia/ossos-do-pe.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/ossos-do-pe.jpg" alt="Ossos do pé" title="Ossos do pé">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Anatomia humana </div>
+        
+    <div class="titulo"> Ossos do pé </div>
+    <div class="txt"> Acesse para relembrar a quantidade de ossos que existe em um pé humano. </div>
+</div>    </a>
+</div>
+</div>                    
+                    <div class="row abas-content__grid " id=aba2>
+    <div class="col-xl-6 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/matematica/sistema-numeracao-babilonico.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/sistema-de-numeracao-babilonico.jpg" alt="Sistema de numeração babilônico" title="Sistema de numeração babilônico">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Sistema de numeração </div>
+        
+    <div class="titulo"> Sistema de numeração babilônico </div>
+    <div class="txt"> O cravo e a asna eram símbolos utilização nesse sistema. Saiba mais! </div>
+</div>    </a>
+</div>                                            <div class="col-xl-3 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/matematica/soma-produto-das-raizes-uma-equacao-2-grau.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/soma-e-produto.jpg" alt="Soma e produto" title="Soma e produto">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Equação </div>
+        
+    <div class="titulo"> Soma e produto </div>
+    <div class="txt"> Relembre agora mesmo tudo sobre essa estratégia para determinar valores de raízes. </div>
+</div>    </a>
+</div>                                            <div class="col-xl-3 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/matematica/simetria.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/simetria.jpg" alt="borboleta" title="Simetria">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Geometria </div>
+        
+    <div class="titulo"> Simetria </div>
+    <div class="txt"> Que tal aprender sobre as propriedades da simetria? </div>
+</div>    </a>
+</div>
+</div>        
+                    <div class="row abas-content__grid " id=aba3>
+    <div class="col-xl-6 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/geografia/cometa-halley.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/cometa-halley.jpg" alt="Cometa Halley" title="Cometa Halley">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Geografia física </div>
+        
+    <div class="titulo"> Cometa Halley </div>
+    <div class="txt"> Quando ocorreu a última aparição desse cometa? Descubra aqui! </div>
+</div>    </a>
+</div>                                            <div class="col-xl-3 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/china/tibete.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/tibete.jpg" alt="Tibete bandeira" title="Tibete">
+        </div>
+
+        <div class="">
+            <div class="tipo"> China </div>
+        
+    <div class="titulo"> Tibete </div>
+    <div class="txt"> Conheça todas as características e informações sobre essa província autônoma da China. </div>
+</div>    </a>
+</div>                                            <div class="col-xl-3 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/curiosidades/torre-eiffel.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/garimpo.jpg" alt="pessoa segurando peneiras de garimpo em rio" title="Garimpo">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Geografia econômica </div>
+        
+    <div class="titulo"> Garimpo </div>
+    <div class="txt"> Essa atividade extrativista pode causar mudanças nas paisagens naturais. Entenda! </div>
+</div>    </a>
+</div>
+</div>        
+                    <div class="row abas-content__grid " id=aba4>
+    <div class="col-xl-6 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/fisica/radiacao-ultravioleta-uv.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/radiacao-ultravioleta-uv.jpg" alt="pessoa tampando o sol com a mão" title="Radiação ultravioleta (UV)">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Magnetismo </div>
+        
+    <div class="titulo"> Radiação ultravioleta (UV) </div>
+    <div class="txt"> Como essa onda eletromagnética afeta a vida dos seres humanos? </div>
+</div>    </a>
+</div>                                            <div class="col-xl-3 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/fisica/trabalho-de-uma-forca.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/trabalho.jpg" alt="pessoas empurrando carro" title="Trabalho">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Mecânica </div>
+        
+    <div class="titulo"> Trabalho </div>
+    <div class="txt"> Clique para saber quais as fórmulas utilizadas no cálculo do trabalho de uma força. </div>
+</div>    </a>
+</div>                                            <div class="col-xl-3 half-padding">
+    <a href="https://mundoeducacao.uol.com.br/fisica/o-que-um-ano-luz.htm" class="destaque-texto-abaixo">
+        <div class="image-wraper">
+            <img class="lozad img-small" loading="lazy" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2023/04/ano-luz.jpg" alt="céu estrelado" title="Ano-luz">
+        </div>
+
+        <div class="">
+            <div class="tipo"> Astrofísica </div>
+        
+    <div class="titulo"> Ano-luz </div>
+    <div class="txt"> Revise tudo sobre essa unidade de comprimento aplicada na astronomia. </div>
+</div>    </a>
+</div>
+</div>        
+                    <div class="row abas-content__grid" id=aba5>
+    <div class="col-xl-6 half-padding">
+    <div class="destaque-texto-abaixo omnia-modal-video" video-id="NK1tUuHJKIA">
+        <div class="play">
+            <div class="shadow"></div>
+            <div class="playButton">
+                <img src="https://mundoeducacao.uol.com.br/images/video.svg" alt="video icon" width="45" height="45" />
+            </div>
+        
+            <img loading="lazy" class="tns-lazy-img img-medium loaded tns-complete" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/06/anaxagoras.jpg" alt="Videoaula Brasil Escola" title="Anaxágoras">
+            
+        </div>
+
+        <div class="">
+            <div class="tipo"> Filosofia </div>
+        
+    <div class="titulo"> Anaxágoras </div>
+    <div class="txt"> Assista nossa videoaula para entender mais sobre o pensamento pluralista de Anaxágoras. </div>
+</div>    </div>
+</div>                                            <div class="col-xl-3 half-padding">
+    <div class="destaque-texto-abaixo omnia-modal-video" video-id="KHWrsHYkBh4">
+        <div class="play">
+            <div class="shadow"></div>
+            <div class="playButton">
+                <img src="https://mundoeducacao.uol.com.br/images/video.svg" alt="video icon" width="45" height="45" />
+            </div>
+        
+            <img loading="lazy" class="tns-lazy-img img-medium loaded tns-complete" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/07/preposicoes.jpg" alt="Videoaula Brasil Escola" title="Preposições">
+            
+        </div>
+
+        <div class="">
+            <div class="tipo"> Português </div>
+        
+    <div class="titulo"> Preposições </div>
+    <div class="txt"> Vamos aprender mais sobre essa classe conectiva de termos? </div>
+</div>    </div>
+</div>                                            <div class="col-xl-3 half-padding">
+    <div class="destaque-texto-abaixo omnia-modal-video" video-id="C0i8qf3BIj0">
+        <div class="play">
+            <div class="shadow"></div>
+            <div class="playButton">
+                <img src="https://mundoeducacao.uol.com.br/images/video.svg" alt="video icon" width="45" height="45" />
+            </div>
+        
+            <img loading="lazy" class="tns-lazy-img img-medium loaded tns-complete" src="https://static.mundoeducacao.uol.com.br/mundoeducacao/2021/hml/tigres-asiaticos.jpg" alt="Tigres Asiáticos" title="Tigres Asiáticos">
+            
+        </div>
+
+        <div class="">
+            <div class="tipo"> Geografia </div>
+        
+    <div class="titulo"> Tigres Asiáticos </div>
+    <div class="txt"> Conheça as razões para o desenvolvimento rápido dos territórios dos Tigres Asiáticos. </div>
+</div>    </div>
+</div>
+</div>            </div>
+</div></div>
+<script>
+    let lazyImg = document.querySelectorAll('img');
+    lazyImg.forEach((item, index)=>{
+        if (!item.classList.contains('bigest-img')) {
+            item.setAttribute('loading', 'lazy');
+        }
+    });
+</script>
+    
+            <footer>
+        <div class="inferior">
+            <div class="container">
+                <img loading="lazy" class="fundo-footer" src="https://mundoeducacao.uol.com.br/images/img-bg-footer.png" alt="backgroung art">
+                <div class="row fundo-mobile">
+                    <div class="col-6 col-lg-2 d-flex">
+                        <a href="https://mundoeducacao.uol.com.br"><img loading="lazy" class="logo hide-mobile" src="https://mundoeducacao.uol.com.br/images/logo-ME-rodape.png" alt="Logo Mundo Educação" width="131" height="39"></a>
+                    </div>
+                    <div class="col-12 col-lg-10 d-flex">
+                        <a class="link" href="https://mundoeducacao.uol.com.br/politica-privacidade">Política de Privacidade</a>
+                        <a class="link" href="https://mundoeducacao.uol.com.br/termos-uso">Termos de Uso</a>
+                        <a class="link" href="https://www.redeomnia.com/portfolios/mundo-educacao/" target="_blank">Anuncie</a>
+                        <a class="link" href="https://www.redeomnia.com/quem-somos" target="_blank">Quem Somos</a>
+                        <a class="link" href="https://mundoeducacao.uol.com.br/contato">Fale Conosco</a>
+                        <a class="social first" href="https://www.facebook.com/mundoeducacao/" target="_blank"><img src="https://mundoeducacao.uol.com.br/images/face-footer.png" alt="Logo Facebook" width="6" height="11"></a>
+                        <a class="social" href="https://twitter.com/mundoeducacao" target="_blank"><img src="https://mundoeducacao.uol.com.br/images/twit-footer.png" alt="Logo Twitter" width="13" height="10"></a>
+                        <a class="social" href="https://www.instagram.com/mundoeducacao/" target="_blank"><img src="https://mundoeducacao.uol.com.br/images/insta-footer.png" alt="Logo Instagram" width="11" height="11"></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="inferior-mais">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12 d-flex justify-content-center">
+                        Copyright © 2023 &nbsp; <a href="https://www.redeomnia.com" target="_blank">Rede Omnia©</a> &nbsp; Todos os direitos reservados. Proibida a reprodução comercial
+                        sem autorização (Inciso I do Artigo 29 Lei 9.610/98).
+                    </div>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <div class="player_dynad_tv"></div>
+
+<!-- JS -->
+<script type="text/javascript" async src="https://mundoeducacao.uol.com.br/js/bundle-2.1.23.min.js"></script>
+
+<!-- Social login -->
+<div id="fb-root"></div>
+<!-- Social login -->
+
+<div id="container-root"></div>
+<div id="modal-root"></div>
+
+
+<script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.9/MathJax.js?config=TeX-AMS_HTML&t=H1CE" async ></script>
+
+<script src="//polyfill.io/v3/polyfill.js?features=es6"></script>
+
+
+
+
+<!-- Hotjar Tracking Code for Mundo Educação -->
+<script>
+    (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:3314987,hjsv:6}; a=o.getElementsByTagName('head')[0]; r=o.createElement('script');r.async=1; r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>        </div>
+    </body>
+</html>
+<script>
+    var docWidth = document.documentElement.offsetWidth;
+
+    [].forEach.call(
+    document.querySelectorAll('*'),
+    function(el) {
+        if (el.offsetWidth > docWidth) {
+        console.log(el);
+        }
+    }
+    );
+</script>
